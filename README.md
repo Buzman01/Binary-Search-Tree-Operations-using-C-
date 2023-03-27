@@ -219,3 +219,57 @@ int main()
     }
     return 0;
 }
+    /*OUTPUT:
+
+1.Insert
+2.Delete
+3.Inorder
+4.Preorder
+5.Postorder
+6.FindMin
+7.FindMax
+8.Search
+9.Exit
+Enter ur choice:1
+
+Enter element to be insert:2
+
+Elements in BST are:2
+1.Insert
+2.Delete
+3.Inorder
+4.Preorder
+5.Postorder
+6.FindMin
+7.FindMax
+8.Search
+9.Exit
+Enter ur choice:1
+
+Enter element to be insert:5
+
+Elements in BST are:2 5
+1.Insert
+2.Delete
+3.Inorder
+4.Preorder
+5.Postorder
+6.FindMin
+7.FindMax
+8.Search
+9.Exit
+Enter ur choice:8
+
+Enter element to be searched:2
+Element 2 is Found
+1.Insert
+2.Delete
+3.Inorder
+4.Preorder
+5.Postorder
+6.FindMin
+7.FindMax
+8.Search
+9.Exit
+Enter ur choice:9*/
+    
